@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.ibb.co/qF53V71/image.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ES+TEAMS;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+HAX3R+SALEH;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
 
 ### If you want to deploy on panel, download bot zip file and upload it to your server 
@@ -20,7 +20,7 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
 
 ### 3.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/paskito002/STINGER-V2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/HAX3R302/STINGER-V2) ON ANY TERMINAL
 sudo apt -y update && sudo apt -y upgrade
 ```
 sudo apt -y install git ffmpeg curl
@@ -92,8 +92,8 @@ npm start
  <br> 
 <p align="center">
 <a href="https://wa.me/923253444558"><img src="https://img.shields.io/badge/Contact ES-TEAMS TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@esteams"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@esteams" /><br>
+<a href="https://instagram.com/itxsalaih"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@esteams"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Muhammadsalehzubair" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
  

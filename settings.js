@@ -18,7 +18,7 @@ global.location = "Nigeria,Cross River,Calabar"
 
 global.ownernumber = '923253444558'  //creator number
 global.ownername = '• Hαxєr-ʙᴜɢ •' //owner name
-global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
+global.botname = '•★彡 Hαxєr-ʙᴜɢ 彡★•' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'

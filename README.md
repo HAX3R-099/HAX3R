@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.ibb.co/qF53V71/image.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+HAX3R+SALEH;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Hαxєr-+ʙᴜɢ+-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+HAX3R+SALEH;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
 
 ### If you want to deploy on panel, download bot zip file and upload it to your server 

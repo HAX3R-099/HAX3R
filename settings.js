@@ -10,22 +10,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923253444558"
+global.ownernomer = "923025616121"
 global.ownername = "• Hαxєr-ʙᴜɢ •"
 global.ytname = "YT: MuhammadSalehZubair"
 global.socialm = "Tiktok: @Itxsalaih"
 global.location = "Pakistan,Punjab, Gujranwala"
 
-global.ownernumber = '923253444558'  //creator number
+global.ownernumber = '923025616121'  //creator number
 global.ownername = '• Hαxєr-ʙᴜɢ •' //owner name
 global.botname = '•★彡 Hαxєr-ʙᴜɢ 彡★•' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '• Hαxєr-ʙᴜɢ •\n\nContact: +923253444558'
+global.author = '• Hαxєr-ʙᴜɢ •\n\nContact: +923025616121'
 
 //console view/theme
-global.themeemoji = '-💀-'
+global.themeemoji = '-🤖-'
 global.wm = "★彡[𝐇͜͡𝚲𝙓𝞝𝙍]彡★"
 
 //theme link
@@ -60,12 +60,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: '• Hαxєr-ʙᴜɢ • can be used by premium user only',
-    admin: '• Hαxєr-ʙᴜɢ • can be used by ES TEAMS only',
+    admin: '• Hαxєr-ʙᴜɢ • can be used by Owner only',
     botAdmin: '• Hαxєr-ʙᴜɢ • can only be used when the bot is a group admin ',
-    owner: '• Hαxєr-ʙᴜɢ • can be used by  ES TEAMS only',
+    owner: '• Hαxєr-ʙᴜɢ • can be used by  Hαxєr only',
     group: '• Hαxєr-ʙᴜɢ • is only for groups',
     private: '• Hαxєr-ʙᴜɢ •  is only for private chats',
-    wait: 'Es Teams is processing your request 😘... ',    
+    wait: 'Hαxєr-Bot is processing your request 😘... ',    
     error: 'Error!',
 }
 

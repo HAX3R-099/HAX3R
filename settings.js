@@ -29,7 +29,7 @@ global.themeemoji = '-🤖-'
 global.wm = "★彡[𝐇͜͡𝚲𝙓𝞝𝙍]彡★"
 
 //theme link
-global.link = 'https://instagram.com/itxsalaih'
+global.link = 'https://web.facebook.com/BINYAHYA.OFFICIAL'
 
 //custom prefix
 global.prefa = ['.']
